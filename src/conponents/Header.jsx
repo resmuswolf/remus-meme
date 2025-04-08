@@ -49,9 +49,9 @@ const Header =()=>{
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://x.com/chronialsgame"><img src={xlogo} alt="xChronialsgame" /></a>
-                <a href="https://t.me/chronials"><img src={telegram} alt="tchronialsgame" /></a>
-                <a href="https://pump.fun/coin/FTyT45YzDFMpZyvPQdmeMGyuNvWVCP3mT8gLZRDapump"><img src={dexLogo} alt="" /></a>
+                <a href="https://x.com/wolffREMUS"><img src={xlogo} alt="xChronialsgame" /></a>
+                <a href="https://t.me/wolfREMUS"><img src={telegram} alt="tchronialsgame" /></a>
+                <a href="https://pump.fun/coin/ "><img src={dexLogo} alt="" /></a>
               </div>
               <HashLink to='#connect'>
                 <button className="vvd"><span>Let’s Connect</span></button>

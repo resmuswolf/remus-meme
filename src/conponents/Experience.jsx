@@ -62,7 +62,13 @@ useEffect(  ()=>{
       <Camping scale={0.6} />
       </group> */}
 
-      <group rotation-y={degToRad(-60)} rotation-x={degToRad(80)} rotation-z={degToRad(90)} position-x={3} position-y={-1}>
+      <group 
+      rotation-y={degToRad(-50)} 
+      rotation-x={degToRad(80)} 
+      rotation-z={degToRad(90)} 
+      position-x={3} 
+      position-y={-1}
+      >
       <FantasyWolf scale={0.3} />
       </group>
       <mesh position-y={-0.68} rotation-x={-Math.PI / 2}>
